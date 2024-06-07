@@ -1,7 +1,3 @@
-Certainly! Below is a template for your README file on GitHub:
-
----
-
 # Python OOP Concepts: Inheritance and Abstraction
 
 This repository contains a set of Python exercises focusing on object-oriented programming (OOP) concepts, particularly inheritance and abstraction.
