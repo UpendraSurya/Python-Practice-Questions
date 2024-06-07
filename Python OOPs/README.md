@@ -26,4 +26,4 @@ This repository contains a set of Python exercises focusing on object-oriented p
 
 ### 6. VowelConsonantCount (static)
 
-Write a Python class named "StringAnalyzer" with a static method named "count_vowels" that takes a string as input and prints the count of vowels (a, e, i, o, u) in the string. Additionally, add another static method named "count_consonants" that takes a string as input and prints the count of consonants (non-vowel alphabets) in the string. Test both methods with sample strings.   give the anwer and give a name to it
+- **Question:** Write a Python class named "StringAnalyzer" with a static method named "count_vowels" that takes a string as input and prints the count of vowels (a, e, i, o, u) in the string. Additionally, add another static method named "count_consonants" that takes a string as input and prints the count of consonants (non-vowel alphabets) in the string. Test both methods with sample strings.   give the anwer and give a name to it
