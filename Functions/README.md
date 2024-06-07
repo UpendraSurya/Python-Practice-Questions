@@ -21,11 +21,3 @@ Create a function `analyze_list(numbers)` that takes a list of numbers as input.
 
 **Problem Statement:**
 Create a function `analyze_text(text)` that takes a block of text as input. The function should count the number of words in the text (split by whitespace), count the number of characters (excluding whitespaces), and find the most frequent word (you can assume case-insensitive matching for simplicity). Return a dictionary containing these counts and the most frequent word.
-
----
-
-This README provides a brief overview of the exercises included in this repository along with the problem statements for each exercise. For detailed instructions on each exercise, please refer to the corresponding Python script file.
-
----
-
-Feel free to customize the README further based on your preferences and the specifics of your project. If you need assistance with the README or have any questions, feel free to ask!
