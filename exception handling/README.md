@@ -1,7 +1,3 @@
-Certainly! Here's a similar template tailored for Python exception handling questions:
-
----
-
 # Python Exception Handling
 
 This repository contains a set of Python exercises focusing on exception handling.
